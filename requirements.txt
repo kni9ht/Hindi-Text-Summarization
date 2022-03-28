@@ -1,0 +1,5 @@
+googletrans==3.1.0a0
+networkx==2.6.3
+nltk==3.6.7
+numpy==1.19.5
+scikit_learn==1.0.2
